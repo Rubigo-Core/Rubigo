@@ -47,14 +47,28 @@ Adresses stealth
 Zéro logs sur les nœuds
 
 
-6. Tokenomics
+## 6. Tokenomics
 
-Supply totale (combien de RBG existeront au maximum ?)
-Block reward (combien de RBG par bloc trouvé ?)
-Durée entre chaque bloc (toutes les X minutes ?)
-Halving prévu ? (comme Bitcoin qui divise la récompense)
-Bonus petits mineurs (x3 ESP32, x2 RPi, x1 PC)
-Ta part en tant que fondateur (transparent ici)
+- **Total Supply:** 22,000,000 RBG (hard cap, forever)
+- **Block Time:** 2 minutes
+- **Initial Block Reward:** 50 RBG per block
+- **Halving:** Every 2,000,000 RBG mined, the reward is halved
+- **Estimated mining duration:** ~130 years
+
+### Mining Reward Distribution
+
+The reward per block is not equal for everyone — and that's by design.
+
+| Device tier | Example | Reward multiplier |
+|---|---|---|
+| Micro | ESP32, ESP8266, ESP32-S3 | x3 |
+| Small | Raspberry Pi, Orange Pi, NanoPi | x2 |
+| Medium | Old PC, NUC, Mini PC | x1 |
+| Large | Server, Datacenter | x0.5 |
+
+The total block reward stays the same — it's just distributed differently based on who contributed. Big miners get less per unit of hashrate, small miners get more. This creates a natural equilibrium where small devices are economically viable and encouraged to join the network.
+
+> "The less powerful you are, the more Rubigo rewards your effort."
 
 
 7. Roadmap
