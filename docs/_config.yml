@@ -1,8 +1,1 @@
-# Rubigo
-
-Privacy-first, decentralized cryptocurrency built in Rust and Assembly!
-
-[Whitepaper](whitepaper.md) • [License](LICENSE) • [GitHub](https://github.com/Rubigo-Core/Rubigo)
-
-## Core Principles
-...
+theme: jekyll-theme-cayman
