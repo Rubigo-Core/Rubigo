@@ -1,4 +1,4 @@
-# [Rubigo](https://rubigo.qzz.io/)
+<a href="https://rubigo.qzz.io/" target="_blank">Rubigo Website</a>
 Privacy-first, decentralized crytpocurrency built in Rust and Assembly ! Mine with any device, from esp32 to servers. No KYC, no compromise.
 
 
