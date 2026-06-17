@@ -1,6 +1,9 @@
-# <a href="https://rubigo.qzz.io/" target="_blank">Rubigo</a>
-Privacy-first, decentralized crytpocurrency built in Rust and Assembly ! Mine with any device, from esp32 to servers. No KYC, no compromise.
+# Rubigo
 
+📄 [Whitepaper](whitepaper.md) • ⚖️ [License](LICENSE) • 🌐 [Website](https://rubigo.qzz.io/)
+
+
+Privacy-first, decentralized cryptocurrency built in Rust and Assembly! Mine with any device, from esp32 to servers. No KYC, no compromise.
 
 
 
