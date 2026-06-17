@@ -1,4 +1,4 @@
-# Rubigo
+# [Rubigo](https://rubigo.qzz.io/)
 Privacy-first, decentralized crytpocurrency built in Rust and Assembly ! Mine with any device, from esp32 to servers. No KYC, no compromise.
 
 
