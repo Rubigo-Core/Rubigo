@@ -1,5 +1,7 @@
 # Rubigo
-![Rubigo Logo](Images/Logo.png)
+<p align="center">
+  <img src="Images/Logo.png" width="200">
+</p>
 
 📄 [Whitepaper](whitepaper.md) • ⚖️ [License](LICENSE) • ⚖️ [Additional License](LICENSE-ADDITIONAL.md) • 🌐 [Website](https://rubigo.qzz.io/) 
 
