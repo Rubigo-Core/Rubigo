@@ -2,16 +2,7 @@
 
 📄 [Whitepaper](whitepaper.md) • ⚖️ [License](LICENSE) • ⚖️ [Additional License](LICENSE-ADDITIONAL.md) • 🌐 [Website](https://rubigo.qzz.io/) 
 
-[
 
-![Whitepaper](https://img.shields.io/badge/Whitepaper-FF6B35?style=for-the-badge)
-
-](whitepaper.md)
-[
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-](lien-discord)
 
 Privacy-first, decentralized cryptocurrency built in Rust and Assembly! Mine with any device, from esp32 to servers. No KYC, no compromise.
 
