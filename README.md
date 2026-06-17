@@ -1,6 +1,6 @@
 # Rubigo
 <p align="center">
-  <img src="Images/Logo.png" width="200">
+  <img src="Images/Logo.png" width="300">
 </p>
 
 📄 [Whitepaper](whitepaper.md) • ⚖️ [License](LICENSE) • ⚖️ [Additional License](LICENSE-ADDITIONAL.md) • 🌐 [Website](https://rubigo.qzz.io/) 
