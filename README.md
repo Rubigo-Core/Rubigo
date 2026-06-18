@@ -31,3 +31,7 @@ Any implementation, fork, pool, exchange, or service built on Rubigo is strictly
 Violating these principles is a direct breach of the AGPL-3.0 license and goes against the core values of this project.
 
 > "Financial privacy is not a privilege. It's a right."
+
+====================
+UID : 3D CA 95 81 
+Type : MIFARE 1KB
